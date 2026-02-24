@@ -1,0 +1,10 @@
+{
+  "name": "memory-card",
+  "version": "1.0.0",
+  "scripts": {
+    "dev": "cd memory-card-game && npm run dev",
+    "build": "cd memory-card-game && npm run build",
+    "preview": "cd memory-card-game && npm run preview",
+    "install": "cd memory-card-game && npm install"
+  }
+}
